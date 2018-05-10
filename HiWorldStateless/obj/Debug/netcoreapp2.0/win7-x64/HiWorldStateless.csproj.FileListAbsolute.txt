@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\bin\Debug\netcoreapp2.0\win7-x64\HiWorldStateless.exe
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\bin\Debug\netcoreapp2.0\win7-x64\HiWorldStateless.dll
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\bin\Debug\netcoreapp2.0\win7-x64\HiWorldStateless.deps.json
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\bin\Debug\netcoreapp2.0\win7-x64\HiWorldStateless.runtimeconfig.json
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\bin\Debug\netcoreapp2.0\win7-x64\HiWorldStateless.runtimeconfig.dev.json
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\obj\Debug\netcoreapp2.0\win7-x64\HiWorldStateless.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\obj\Debug\netcoreapp2.0\win7-x64\HiWorldStateless.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\obj\Debug\netcoreapp2.0\win7-x64\HiWorldStateless.AssemblyInfo.cs
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\obj\Debug\netcoreapp2.0\win7-x64\HiWorldStateless.dll
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\obj\Debug\netcoreapp2.0\win7-x64\HiWorldStateless.pdb
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\bin\Debug\netcoreapp2.0\win7-x64\HiWorldStateless.pdb
+C:\Users\admin\source\repos\HiWorld\HiWorldStateless\obj\Debug\netcoreapp2.0\win7-x64\HiWorldStateless.csprojResolveAssemblyReference.cache
